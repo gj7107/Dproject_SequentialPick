@@ -1,0 +1,969 @@
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\DProject.exe.config
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\DProject.exe
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\DProject.pdb
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.dll
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.pdb
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.xml
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\obj\Release\DProject.DProjectForm.resources
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\obj\Release\DProject.exe
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\obj\Release\DProject.pdb
+C:\Users\Junhyeok\Desktop\Source\DMDprogram\xx\obj\Release\DProject.csprojAssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\DMD\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD\obj\Release\DProject.DProjectForm.resources
+C:\Users\Einstein\Desktop\DMD\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Einstein\Desktop\DMD\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\DProject.DProjectForm.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_0714\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\DProject.DProjectForm.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_0824\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\DProject.DProjectForm.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_0824(2)\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\DProject.DProjectForm.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_0825\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\DProject.DProjectForm.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_1026\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\DProject.DProjectForm.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_1027\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\DProject.DProjectForm.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\DMD_1218\obj\Release\DProject.pdb
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\dll\x86\OpenCvSharpExtern.dll
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\dll\x86\opencv_ffmpeg400.dll
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\dll\x64\OpenCvSharpExtern.dll
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\DProject.exe.config
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\DProject.exe
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\DProject.pdb
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.Blob.dll
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.dll
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.Extensions.dll
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.UserInterface.dll
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.pdb
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.xml
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.Blob.pdb
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.Blob.xml
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.Extensions.pdb
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.Extensions.xml
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.UserInterface.pdb
+Z:\CSCode\DMD\Dproject_1218(source code)\bin\Release\OpenCvSharp.UserInterface.xml
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\DProject.csproj.AssemblyReference.cache
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\DProject.csproj.SuggestedBindingRedirects.cache
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\Dproject.CustomWindow.resources
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\DProject.DProjectForm.resources
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\ButtonTest.Draw.resources
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\Dproject.Properties.Resources.resources
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\DProject.csproj.GenerateResource.cache
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\DProject.csproj.CoreCompileInputs.cache
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\DProject.csproj.CopyComplete
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\DProject.exe
+Z:\CSCode\DMD\Dproject_1218(source code)\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\DProject.DProjectFormV231218.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218 - 복사본\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\DProject.DProjectFormV231218v2.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_1218v2\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\DProject.DProjectFormv240225.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\DProject.DProjectFormv240225v2.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v2\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\DProject.DProjectFormv240225v3.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v3\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\DProject.DProjectFormv240225v4.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v4\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\DProject.DProjectFormv240225v5.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v5\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\DProject.DProjectFormv240225v6.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240225v6\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\DProject.DProjectFormv240304.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240304\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\DProject.DProjectFormv240314.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240314\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\DProject.DProjectForm240722.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722\obj\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\DProject.exe.config
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\DProject.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\DProject.DProjectForm240722v2.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\ButtonTest.Draw.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\DProject.csproj.Up2Date
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\DProject.exe
+C:\Users\Einstein\Desktop\DMD program\Dproject_240722v2\obj\Release\DProject.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\DProject.DProjectForm240905.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\ButtonTest.Draw.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\DProject.exe.config
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\DProject.exe.manifest
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\DProject.application
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\DProject.exe
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\DProject.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\System.Buffers.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\System.Memory.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\System.Buffers.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\System.Memory.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\DProject.exe.manifest
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\DProject.application
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\DProject.exe
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\obj\Release\DProject.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240905(source code)\bin\Release\OpenCvSharp.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\DProject.exe.config
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\DProject.exe.manifest
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\DProject.application
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\DProject.exe
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\DProject.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\System.Buffers.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\System.Memory.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\System.Buffers.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\System.Memory.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\DProject.DProjectForm240905.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\ButtonTest.Draw.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\DProject.exe.manifest
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\DProject.application
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\DProject.exe
+C:\Users\Junhyeok\Desktop\Programming\Dproject_240910(source code)\obj\Release\DProject.pdb
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\DProject.exe.config
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\DProject.exe.manifest
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\DProject.application
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\DProject.exe
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\DProject.pdb
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\System.Buffers.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\System.Memory.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\System.Numerics.Vectors.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.pdb
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.xml
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\System.Buffers.xml
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\System.Memory.xml
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\System.Numerics.Vectors.xml
+C:\Users\gj710\Desktop\Dproject_240917(source code)\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\Dproject.CustomWindow.resources
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.DProjectForm240905.resources
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\ButtonTest.Draw.resources
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.exe.manifest
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.application
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.csproj.Up2Date
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.exe
+C:\Users\gj710\Desktop\Dproject_240917(source code)\obj\Release\DProject.pdb
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\DProject_RandomPick.exe.config
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\DProject_RandomPick.exe.manifest
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\DProject_RandomPick.application
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\DProject_RandomPick.exe
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\DProject_RandomPick.pdb
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\System.Buffers.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\System.Memory.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\System.Numerics.Vectors.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.pdb
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.xml
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\System.Buffers.xml
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\System.Memory.xml
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\System.Numerics.Vectors.xml
+C:\Users\gj710\Desktop\Dproject_RandomPick\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\Dproject.CustomWindow.resources
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject.DProjectForm240905.resources
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\ButtonTest.Draw.resources
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject_RandomPick.exe.manifest
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject_RandomPick.application
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject.csproj.Up2Date
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject_RandomPick.exe
+C:\Users\gj710\Desktop\Dproject_RandomPick\obj\Release\DProject_RandomPick.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\DProject_SequentialPick.exe.config
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\DProject_SequentialPick.exe.manifest
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\DProject_SequentialPick.application
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\DProject_SequentialPick.exe
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\DProject_SequentialPick.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\System.Buffers.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\System.Memory.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\System.Buffers.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\System.Memory.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\Dproject.CustomWindow.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\DProject.DProjectForm240905.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\ButtonTest.Draw.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\DProject_SequentialPick.exe.manifest
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\DProject_SequentialPick.application
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\DProject.csproj.CopyComplete
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\DProject_SequentialPick.exe
+C:\Users\Junhyeok\Desktop\Programming\Dproject_RandomPick\obj\Release\DProject_SequentialPick.pdb
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\DProject_SequentialPick.exe.config
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\DProject_SequentialPick.exe.manifest
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\DProject_SequentialPick.application
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\DProject_SequentialPick.exe
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\DProject_SequentialPick.pdb
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\System.Buffers.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\System.Memory.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\System.Numerics.Vectors.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.pdb
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.xml
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.UserInterface.pdb
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\OpenCvSharp.UserInterface.xml
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\System.Buffers.xml
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\System.Memory.xml
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\System.Numerics.Vectors.xml
+C:\Users\gj710\Desktop\Dproject_SequentialPick\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject.csproj.AssemblyReference.cache
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\WordGenerator.Controls.DMD.DotSelected.resources
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\WordGenerator.Controls.DMD.FlattopSelected.resources
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\WordGenerator.Controls.DMD.LineSelected.resources
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\Dproject.CustomWindow.resources
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject.DProjectForm240905.resources
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\ButtonTest.Draw.resources
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\Dproject.Properties.Resources.resources
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject.csproj.GenerateResource.cache
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject.csproj.CoreCompileInputs.cache
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject_SequentialPick.exe.manifest
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject_SequentialPick.application
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject.csproj.Up2Date
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject_SequentialPick.exe
+C:\Users\gj710\Desktop\Dproject_SequentialPick\obj\Release\DProject_SequentialPick.pdb

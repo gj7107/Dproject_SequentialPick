@@ -1,0 +1,22 @@
+C:\Users\Einstein\Desktop\새 폴더\bin\Debug\ALP_CSharp_DotNet.exe.config
+C:\Users\Einstein\Desktop\새 폴더\bin\Debug\ALP_CSharp_DotNet.exe
+C:\Users\Einstein\Desktop\새 폴더\bin\Debug\ALP_CSharp_DotNet.pdb
+C:\Users\Einstein\Desktop\새 폴더\obj\Debug\ALP_CSharp_DotNet.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\새 폴더\obj\Debug\ALP_CSharp_DotNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\새 폴더\obj\Debug\ALP_CSharp_DotNet.AlpSampleForm.resources
+C:\Users\Einstein\Desktop\새 폴더\obj\Debug\ALP_CSharp_DotNet.Properties.Resources.resources
+C:\Users\Einstein\Desktop\새 폴더\obj\Debug\ALP_CSharp_DotNet.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\새 폴더\obj\Debug\ALP_CSharp_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\새 폴더\obj\Debug\ALP_CSharp_DotNet.exe
+C:\Users\Einstein\Desktop\새 폴더\obj\Debug\ALP_CSharp_DotNet.pdb
+C:\Users\Einstein\Desktop\dsd\bin\Debug\ALP_CSharp_DotNet.exe.config
+C:\Users\Einstein\Desktop\dsd\bin\Debug\ALP_CSharp_DotNet.exe
+C:\Users\Einstein\Desktop\dsd\bin\Debug\ALP_CSharp_DotNet.pdb
+C:\Users\Einstein\Desktop\dsd\obj\Debug\ALP_CSharp_DotNet.csproj.AssemblyReference.cache
+C:\Users\Einstein\Desktop\dsd\obj\Debug\ALP_CSharp_DotNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Einstein\Desktop\dsd\obj\Debug\ALP_CSharp_DotNet.AlpSampleForm.resources
+C:\Users\Einstein\Desktop\dsd\obj\Debug\ALP_CSharp_DotNet.Properties.Resources.resources
+C:\Users\Einstein\Desktop\dsd\obj\Debug\ALP_CSharp_DotNet.csproj.GenerateResource.cache
+C:\Users\Einstein\Desktop\dsd\obj\Debug\ALP_CSharp_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\Einstein\Desktop\dsd\obj\Debug\ALP_CSharp_DotNet.exe
+C:\Users\Einstein\Desktop\dsd\obj\Debug\ALP_CSharp_DotNet.pdb

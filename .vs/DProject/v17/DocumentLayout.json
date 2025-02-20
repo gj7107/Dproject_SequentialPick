@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42283FB7-39D1-48FE-8B66-9FBB49525DA4}|DProject.csproj|C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\customwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42283FB7-39D1-48FE-8B66-9FBB49525DA4}|DProject.csproj|solutionrelative:customwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42283FB7-39D1-48FE-8B66-9FBB49525DA4}|DProject.csproj|C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\dprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42283FB7-39D1-48FE-8B66-9FBB49525DA4}|DProject.csproj|solutionrelative:dprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42283FB7-39D1-48FE-8B66-9FBB49525DA4}|DProject.csproj|c:\\users\\einstein\\desktop\\dmd program\\dproject_1218\\dprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42283FB7-39D1-48FE-8B66-9FBB49525DA4}|DProject.csproj|solutionrelative:dprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DProjectForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\DProjectForm.cs",
+              "RelativeDocumentMoniker": "DProjectForm.cs",
+              "ToolTip": "C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\DProjectForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "DProjectForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T14:27:09.195Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DProjectForm.cs",
+              "DocumentMoniker": "C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\DProjectForm.cs",
+              "RelativeDocumentMoniker": "DProjectForm.cs",
+              "ToolTip": "C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\DProjectForm.cs",
+              "RelativeToolTip": "DProjectForm.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAMwE0BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T14:27:09.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\CustomWindow.cs",
+              "RelativeDocumentMoniker": "CustomWindow.cs",
+              "ToolTip": "C:\\Users\\Einstein\\Desktop\\DMD program\\Dproject_1218\\CustomWindow.cs",
+              "RelativeToolTip": "CustomWindow.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T14:27:09.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

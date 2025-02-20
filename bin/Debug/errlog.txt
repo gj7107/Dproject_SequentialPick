@@ -1,0 +1,13 @@
+Watch Thread error
+크로스 스레드 작업이 잘못되었습니다. 'txResult' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.
+2024-09-17 10:33:55
+Current time : 2024-09-17 10:32:48
+2 / 2
+SeqAlloc ALP_OK
+SeqControl BITNUM ALP_OK
+SeqControl BinUninterrupted ALP_OK
+SeqPut ALP_OK
+Trig Proj Control PROJ_MODEALP_OK
+SeqControl TIMING ALP_OK
+
+
